@@ -1,0 +1,231 @@
+[33mcommit ddfcbf8f6ad314e456fb00cb92780509b4a6e237[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Umair shah <umairgillani93@gmail.com>
+Date:   Thu Oct 24 20:37:26 2019 +0500
+
+    tf file added
+
+[33mcommit a56a1ea1a4ce02fc8b2a33c5e145d18ab7961a69[m
+Author: Umair shah <umairgillani93@gmail.com>
+Date:   Wed Sep 11 15:18:13 2019 +0500
+
+    deleted new file
+
+[33mcommit 44729a42c7e2e8ef62664b1b01226e913ffeeffc[m
+Author: Umair shah <umairgillani93@gmail.com>
+Date:   Wed Sep 11 15:15:40 2019 +0500
+
+    deleted new file
+
+[33mcommit 4aa4f13909109dc2cdab6ae9ece76452ef656d72[m
+Author: Umair shah <umairgillani93@gmail.com>
+Date:   Wed Sep 11 15:13:49 2019 +0500
+
+    deleted new file
+
+[33mcommit 8c0eebd8634a9a72aa2c620c1e8dc888d341ee9b[m
+Author: Umair shah <umairgillani93@gmail.com>
+Date:   Wed Sep 11 15:12:56 2019 +0500
+
+    deleted
+
+[33mcommit 1069cf3ad9245c2e6a635577992ae46124f85343[m
+Author: Umair shah <umairshah@nxb.com.pk>
+Date:   Wed Sep 11 15:08:05 2019 +0500
+
+    new deleted
+
+[33mcommit 8feedeceb48897f482ec2e16129b31975074b9e1[m
+Author: Umair shah <umairshah@nxb.com.pk>
+Date:   Wed Sep 11 15:00:58 2019 +0500
+
+    added
+
+[33mcommit 5a18ab63d5e0cd48941af8183915f995e298671d[m
+Author: Umair shah <umairshah@nxb.com.pk>
+Date:   Wed Sep 11 14:58:35 2019 +0500
+
+    added
+
+[33mcommit 0192dd9f07d30e99d315e44fcd35d38fca1b2d58[m
+Author: Umair shah <umairshah@nxb.com.pk>
+Date:   Wed Sep 11 14:55:40 2019 +0500
+
+    added
+
+[33mcommit 227380359868cd29d3082abdd408df024ab93e0b[m
+Author: Umair shah <umairshah@nxb.com.pk>
+Date:   Wed Sep 11 14:51:26 2019 +0500
+
+    new file deleted
+
+[33mcommit fa5723779ad4c7ca1fa5e5b1d0a24af22967731f[m
+Author: Umair shah <umairshah@nxb.com.pk>
+Date:   Wed Sep 11 14:50:33 2019 +0500
+
+    new file deleted
+
+[33mcommit 5140ff1db4ed33951b441dd815e91ccc7fd4ac3c[m
+Merge: ebeacef e732b46
+Author: Umair shah <umairshah@nxb.com.pk>
+Date:   Wed Sep 11 14:48:40 2019 +0500
+
+    Merge branch 'master' of https://github.com/umairgillani93/Python-Natural-Language-Processing
+
+[33mcommit ebeacef167dfa51a92bbc7966e93066543fd44ba[m
+Author: Umair shah <umairshah@nxb.com.pk>
+Date:   Wed Sep 11 14:48:14 2019 +0500
+
+    updated
+
+[33mcommit e732b464c655bdb39b739d52c963d3a8f922417e[m
+Author: UG_Python <42276213+umairgillani93@users.noreply.github.com>
+Date:   Wed Sep 11 14:47:42 2019 +0500
+
+    Delete file2.txt
+
+[33mcommit eaa9d99cd7f8b1a683aacb87ff5736363df52470[m
+Author: Umair shah <umairshah@nxb.com.pk>
+Date:   Wed Sep 11 13:17:51 2019 +0500
+
+    updated
+
+[33mcommit 480ebba94606fd5eb6cf0ca2384c787870f8aabf[m
+Author: Umair shah <umairshah@nxb.com.pk>
+Date:   Wed Sep 11 13:14:50 2019 +0500
+
+    updated
+
+[33mcommit ae76e192a1853f560d408c5d896a3bb800b2a3d6[m
+Merge: 37ee4a6 b505054
+Author: Umair shah <umairshah@nxb.com.pk>
+Date:   Wed Aug 7 15:24:35 2019 +0500
+
+    updated
+    Merge branch 'master' of https://github.com/umairgillani93/Python-Natural-Language-Processing
+
+[33mcommit 37ee4a6a1c9b52a2dcb14b8b87aa86c9c9ee29b9[m
+Author: Umair shah <umairshah@nxb.com.pk>
+Date:   Wed Aug 7 15:23:49 2019 +0500
+
+    new updated
+
+[33mcommit b5050542426d65bc15e4604955cc2fe61e029168[m
+Author: UG_Python <42276213+umairgillani93@users.noreply.github.com>
+Date:   Wed Aug 7 15:20:38 2019 +0500
+
+    Delete myfile.txt
+
+[33mcommit 65f7cb74d70c5195fa1c672430d874cbcaa67ec3[m
+Author: Umair shah <umairshah@nxb.com.pk>
+Date:   Wed Aug 7 15:17:51 2019 +0500
+
+    updated
+
+[33mcommit b4172c63e5a196316797863d02d73888c13bdd94[m
+Merge: 42666e0 c0459c9
+Author: Umair shah <umairshah@nxb.com.pk>
+Date:   Wed Aug 7 15:04:42 2019 +0500
+
+    updated
+
+[33mcommit 42666e09eaf1fe8c5243d0beddb70294b21d65a7[m
+Author: Umair shah <umairshah@nxb.com.pk>
+Date:   Wed Aug 7 14:25:54 2019 +0500
+
+    test update
+
+[33mcommit c0459c941b2aee8243dd3f02a2ecfbc4e4750151[m
+Author: UG_Python <42276213+umairgillani93@users.noreply.github.com>
+Date:   Tue Aug 6 12:57:20 2019 +0500
+
+    Add files via upload
+
+[33mcommit 309f33c0f6ddd86a83754a92298effe07baf49df[m
+Author: Umair shah <umairshah@nxb.com.pk>
+Date:   Mon Aug 5 15:40:11 2019 +0500
+
+    NER color visualizations
+
+[33mcommit 2be0f55fe02fd9852bbcc56323577cead081f125[m
+Author: Umair shah <umairshah@nxb.com.pk>
+Date:   Mon Aug 5 12:09:43 2019 +0500
+
+    adding named entites with to a context manually
+
+[33mcommit 92969b9e7971baf02affc4501141419fdc875407[m
+Author: Umair shah <umairshah@nxb.com.pk>
+Date:   Mon Aug 5 10:58:31 2019 +0500
+
+    spacy visualizations code
+
+[33mcommit 2fe212cdc776d958cd26e544ca1dd0b055995b8d[m
+Author: Umair shah <umairshah@nxb.com.pk>
+Date:   Mon Aug 5 10:17:57 2019 +0500
+
+    spacy POS tagging
+
+[33mcommit b73a1d68efdf07a7165c9ff2e4c97f57b6af163e[m
+Author: Umair shah <umairshah@nxb.com.pk>
+Date:   Fri Aug 2 17:11:12 2019 +0500
+
+    Phrase matching code appended
+
+[33mcommit eceb09fa53faea2ffbceb1ea1617c4b7dc41edb6[m
+Author: Umair shah <umairshah@nxb.com.pk>
+Date:   Fri Aug 2 13:06:18 2019 +0500
+
+    changes newly made
+
+[33mcommit 725577e83626fcb1717aefa686e996717ed9b62b[m
+Author: Umair shah <umairshah@nxb.com.pk>
+Date:   Fri Aug 2 13:04:18 2019 +0500
+
+    ipython notebook changes
+
+[33mcommit 0e2aab7d9febe239f8790520d018980a3376eead[m
+Author: Umair shah <umairshah@nxb.com.pk>
+Date:   Fri Aug 2 09:39:47 2019 +0500
+
+    new files added in NLP repository
+
+[33mcommit f55057986953416406802a957a2df374da2ff152[m
+Author: UG_Python <42276213+umairgillani93@users.noreply.github.com>
+Date:   Wed Jul 31 15:27:13 2019 +0500
+
+    Add files via upload
+
+[33mcommit ce4b5c62d06185be01b3d0dafb4c2dbbca22b7c0[m
+Author: UG_Python <42276213+umairgillani93@users.noreply.github.com>
+Date:   Mon Jul 15 14:12:13 2019 +0500
+
+    Delete Deep NLP based Chatbot.ipynb
+
+[33mcommit addaf9ecb0a87b6c831b050405eb971951a83b0b[m
+Author: UG_Python <42276213+umairgillani93@users.noreply.github.com>
+Date:   Sun Jul 14 23:35:25 2019 +0500
+
+    Add files via upload
+
+[33mcommit 269954d5aceaa48a9cdfe60c1c712b004de1e9fc[m
+Author: UG_Python <42276213+umairgillani93@users.noreply.github.com>
+Date:   Fri Jun 14 19:02:36 2019 +0500
+
+    Add files via upload
+
+[33mcommit 0f269e954b2f651304a372468d7f6a6b57bbac4a[m
+Author: UG_Python <42276213+umairgillani93@users.noreply.github.com>
+Date:   Fri Jun 14 19:01:24 2019 +0500
+
+    Add files via upload
+
+[33mcommit ed62d225926ce4abb3c8d3262580d97c9b72a583[m
+Author: UG_Python <42276213+umairgillani93@users.noreply.github.com>
+Date:   Fri May 24 18:42:53 2019 +0500
+
+    Add files via upload
+
+[33mcommit 5fa0aec3e7f2eb1ea31c0844664644edf517c57b[m
+Author: UG_Python <42276213+umairgillani93@users.noreply.github.com>
+Date:   Fri May 24 18:42:30 2019 +0500
+
+    Initial commit
